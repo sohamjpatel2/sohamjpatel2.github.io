@@ -23,6 +23,6 @@ The sale indicates a sale of product.
 ### Sale to Revenue
 A sale will also bring in cash flow that is categorized as revenue.
 ### Product to Inventory
-When a product is sold, that product will 'leave the shelves' or the product will leave the inventory.
+When a product is sold, that product will 'leave the shelves' in other words,  the product will leave the inventory.
 ### Revenue to Inventory
-The revenue made from the sale of the product can be used to replace the product in the inventory.
+The revenue made from the sale of the product can be used to replace the sold product in the inventory.
